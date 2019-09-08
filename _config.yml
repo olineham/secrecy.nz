@@ -1,2 +1,3 @@
 name: secrecy.nz
 markdown: kramdown
+theme: jekyll-theme-cayman
